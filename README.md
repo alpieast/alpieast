@@ -1,6 +1,19 @@
 # 💫 About Me:
 🔭 I am currently working as a Senior Software Development Engineer at Qlub Istanbul, where I collaborate with cross-functional teams to develop robust features for the vendor panel. My focus is on implementing quick-service restaurant capabilities and real-time order status management.<br>👯 I am open to collaborating on interesting software development projects, particularly in the areas of web and mobile applications. If you have an exciting project and need a dedicated team member, feel free to reach out!<br>🤝 I am always eager to learn and expand my skill set. If you have expertise in areas such as software architecture, cloud computing, or , iOS development, I would greatly appreciate your guidance and mentorship.<br>🌱 I am currently focusing on learning Swift for iOS development. I'm excited about exploring the capabilities of Swift and building robust and user-friendly iOS applications.<br>💬 Feel free to ask me about software development, web and mobile application development, and project management. I'm always happy to share my knowledge and insights.<br>⚡ Apart from being a software engineer, I am also a passionate American football follower. I have been a team member of the University American Football Team and enjoy the friendship and teamwork the sport offers.
 
+## 🚀 My Playgrounds:
+## Image Cropper 
+
+Simple website that allows users to upload an image, crop it, adjust its scale and rotation, and then download the cropped image.
+
+- **Repo:** [cut-that-image](https://github.com/alpieast/cut-that-image)
+
+- **Live demo:** [Image Cropper](https://alpieast.github.io/cut-that-image/)
+
+## Under Development...
+
+Under development...
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alperendogu) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@alperendogu) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/alpi_js) 
